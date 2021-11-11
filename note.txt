@@ -1,0 +1,4 @@
+- php artisan make:model Gallery -m 
+- php artisan make:controller GalleryController -r
+- php artisan storage:link
+- composer require intervention/image
